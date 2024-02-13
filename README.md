@@ -46,8 +46,8 @@ Map Visualizer for Login Attempts (Only 1 Hour After Creation):  <br/>
 <img src="https://i.imgur.com/c77NgMp.jpeg" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Map Visualizer for Login Attempts (24 Hours Later):  <br/>
-<img src="" height="80%" width="80%" alt=""/>
+Map Visualizer for Login Attempts (12 Hours Later):  <br/>
+<img src="https://i.imgur.com/rNIz7VN.jpeg" height="80%" width="80%" alt=""/>
 <br />
 <br />
 </p>
